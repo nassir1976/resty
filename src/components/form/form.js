@@ -41,9 +41,9 @@ class Form extends React.Component{
             <button onClick = {this.handleRestChange} value = "PUT">PUT</button>
             <button onClick = {this.handleRestChange} value = "DELETE">DELETE</button>
           </form>
-          <div className ="App-Main">
+          <dev className ="App-main">
             <p>Entry List Here : {this.state.rest} {this.state.input}</p>
-          </div>
+          </dev>
         </div>
       )
     }
