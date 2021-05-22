@@ -1,5 +1,6 @@
 .App-footer{
-background-color:#8a8f97;
+// background-color:#8a8f97;
+background-color: #282c34;
   min-height: 5vh;
  display: flex;
   flex-direction: column;
@@ -8,6 +9,18 @@ background-color:#8a8f97;
   justify-content: center;
   color: green;
   font-family: cursive;
-
+margin-top: 600px;
   
 }
+
+// .App-footer {
+//   background-color: #282c34;
+//   height: 5vh;
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   justify-content: center;
+//   font-size: 12px;
+//   color: white;
+//   margin-top: 600px;
+// }
