@@ -15,7 +15,7 @@ class Form extends React.Component {
       classValue: 'getButton',
       input: '',
       requestInput: '',
-      apiUrl: ['https://pokeapi.co/api/v2/pokemon/'],
+      apiUrl: [],
       methodClass: [],
       formGet: 'getButton',
       formPost: 'plain',
@@ -128,3 +128,8 @@ class Form extends React.Component {
 export default Form;
 
 
+// form 
+
+//own state
+//send state app
+// {get state as drop fro history}
